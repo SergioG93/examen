@@ -1,3 +1,25 @@
+/*inicio*/
+
+.imagen{
+    width: 1000px;
+    height: 900px;
+    margin-left: 450px;
+}
+.imagendos{
+    width: 500px;
+    height: 900px;
+    margin-left: 450px;
+    margin-top: -550px;
+    float: left;
+}
+.imagentres{
+    width: 500px;
+    height: 500px;
+    margin-top: -550px;
+    margin-right: 450px;
+    float: right;
+}
+
 /*contacto*/
 
 .contacto{
@@ -13,7 +35,7 @@
     margin-left: 300px;
 }
 
-/*praductos*/
+/*productos*/
 
 .articulo{
     width: 500px;
